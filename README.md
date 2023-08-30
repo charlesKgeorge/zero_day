@@ -1,5 +1,5 @@
 # Readme for zero_day repository
-The repo simply contains a directory *0x00-vagrant* to contain the task at hand and also this readme to explain its content and reason for doing the project.
+The repo simply contains a directory **0x00-vagrant** to contain the task at hand and also this readme to explain its content and reason for doing the project.
 
 # Vagrant - or - how to code in your local computer
 I am attempting to push my first repository using a local virtual machine instead of the usual sandbox
